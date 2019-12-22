@@ -1,2 +1,2 @@
 # deep-ml
-Deep Machine Learning Exp
+Deep Machine Learning Lab
